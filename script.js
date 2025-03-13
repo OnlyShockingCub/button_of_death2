@@ -1,5 +1,5 @@
 function openWindows() {
-    window.open('https://www.youtube.com/watch?v=dQw4w9WgXcQ');
+    window.open('https://onyshockingcub.github.io/button_of_death3');
 }
 
 window.onload = function() {
